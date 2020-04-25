@@ -22,8 +22,9 @@
       "infoForeground": "#939293",
       "selectionBackground": "#2d2a2e",
       "selectionBackgroundInactive": "#2d2a2e",
-      "selectionForeground": "#fcfcfa",
+      "selectionForeground": "yellow",
       "selectionInactiveBackground": "#403e41",
+      "selectionInactiveForeground": "yellow",
       "separatorColor": "#2d2a2e"
     },
     "ActionButton": {
@@ -228,7 +229,7 @@
       "disabledBackground": "#403e41",
       "disabledForeground": "#5b595c",
       "foreground": "#fcfcfa",
-      "selectionForeground": "#fcfcfa",
+      "selectionForeground": "yellow",
       "separatorColor": "#2d2a2e"
     },
     "MenuBar": {
@@ -238,7 +239,7 @@
       "foreground": "#fcfcfa",
       "highlight": "#2d2a2e",
       "selectionBackground": "#403e41",
-      "selectionForeground": "#fcfcfa",
+      "selectionForeground": "yellow",
       "shadow": "#221f22"
     },
     "MenuItem": {
@@ -248,7 +249,7 @@
       "disabledForeground": "#5b595c",
       "foreground": "#fcfcfa",
       "selectionBackground": "#403e41",
-      "selectionForeground": "#fcfcfa"
+      "selectionForeground": "yellow"
     },
     "NavBar": {
       "borderColor": "#373438"
@@ -383,7 +384,7 @@
       "disabledForeground": "#5b595c",
       "foreground": "#fcfcfa",
       "selectionBackground": "#403e41",
-      "selectionForeground": "#fcfcfa"
+      "selectionForeground": "yellow"
     },
     "ScrollBar": {
       "background": "#2d2a2e",
