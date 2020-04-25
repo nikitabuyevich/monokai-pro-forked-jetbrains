@@ -8,7 +8,7 @@
   },
   "ui": {
     "*": {
-      "acceleratorSelectionForeground": "#939293",
+      "acceleratorSelectionForeground": "yellow",
       "background": "#2d2a2e",
       "borderColor": "#373438",
       "disabledBackground": "#221f22",
