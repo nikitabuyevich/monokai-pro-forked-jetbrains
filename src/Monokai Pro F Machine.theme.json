@@ -7,7 +7,7 @@
     "accent": "#ffed72",
     "background": "#273136",
     "foreground": "#f2fffc",
-    "borderColor": "#2f393d",
+    "border": "#2f393d",
     "errorForeground": "#ff6d7e",
     "statusBarHighlight": "#353336",
     "notificationBackground": "#363437",
@@ -22,7 +22,7 @@
     "*": {
       "acceleratorSelectionForeground": "accent",
       "background": "background",
-      "borderColor": "borderColor",
+      "borderColor": "border",
       "disabledBackground": "disabledBackground",
       "disabledForeground": "disabledForeground",
       "disabledText": "disabledForeground",
@@ -40,13 +40,13 @@
       "separatorColor": "background"
     },
     "ActionButton": {
-      "hoverBackground": "borderColor",
+      "hoverBackground": "border",
       "hoverBorderColor": "selectionBackground",
       "pressedBackground": "selectionBackground",
       "pressedBorderColor": "selectionBackground"
     },
-    "Borders.ContrastBorderColor": "borderColor",
-    "Borders.color": "borderColor",
+    "Borders.ContrastBorderColor": "border",
+    "Borders.color": "border",
     "Button": {
       "arc": 0,
       "background": "background",
@@ -117,8 +117,8 @@
     },
     "Component": {
       "arc": 4,
-      "borderColor": "borderColor",
-      "disabledBorderColor": "borderColor",
+      "borderColor": "border",
+      "disabledBorderColor": "border",
       "focusColor": "accent",
       "focusedBorderColor": "accent",
       "hoverIconColor": "accent",
@@ -149,7 +149,7 @@
     "DefaultTabs": {
       "background": "background",
       "borderColor": "background",
-      "hoverBackground": "borderColor",
+      "hoverBackground": "border",
       "inactiveUnderlineColor": "accent",
       "underlineColor": "accent",
       "underlinedTabBackground": "background",
@@ -175,7 +175,7 @@
       "selectionForeground": "accent"
     },
     "EditorTabs": {
-      "borderColor": "borderColor",
+      "borderColor": "border",
       "inactiveUnderlineColor": "accent",
       "underlineColor": "accent",
       "underlinedTabBackground": "background",
@@ -237,7 +237,7 @@
       "acceleratorForeground": "highlightForeground",
       "acceleratorSelectionForeground": "foreground",
       "background": "background",
-      "borderColor": "borderColor",
+      "borderColor": "border",
       "disabledBackground": "selectionBackground",
       "disabledForeground": "disabledForeground",
       "foreground": "foreground",
@@ -264,7 +264,7 @@
       "selectionForeground": "accent"
     },
     "NavBar": {
-      "borderColor": "borderColor"
+      "borderColor": "border"
     },
     "Notification": {
       "background": "notificationBackground",
@@ -275,7 +275,7 @@
       "MoreButton": {
         "background": "selectionBackground",
         "foreground": "foreground",
-        "innerBorderColor": "borderColor"
+        "innerBorderColor": "border"
       },
       "ToolWindow": {
         "errorBackground": "notificationBackground",
@@ -297,13 +297,13 @@
     },
     "ParameterInfo": {
       "background": "selectionBackground",
-      "borderColor": "borderColor",
+      "borderColor": "border",
       "currentOverloadBackground": "selectionBackground",
       "currentParameterForeground": "accent",
       "disabledForeground": "disabledForeground",
       "foreground": "foreground",
       "infoForeground": "highlightForeground",
-      "lineSeparatorColor": "borderColor"
+      "lineSeparatorColor": "border"
     },
     "PasswordField": {
       "background": "disabledBackground",
@@ -364,7 +364,7 @@
       "separatorColor": "background",
       "Toolbar": {
         "background": "disabledBackground",
-        "borderColor": "borderColor"
+        "borderColor": "border"
       }
     },
     "PopupMenu": {
@@ -459,7 +459,7 @@
       "startBackground": "accent"
     },
     "Separator": {
-      "separatorColor": "borderColor"
+      "separatorColor": "border"
     },
     "SidePanel": {
       "background": "disabledBackground"
@@ -487,7 +487,7 @@
     },
     "SplitPaneDivider.draggingColor": "selectionBackground",
     "StatusBar": {
-      "borderColor": "borderColor",
+      "borderColor": "border",
       "hoverBackground": "statusBarHighlight"
     },
     "TabbedPane": {
@@ -522,11 +522,11 @@
     },
     "TableHeader": {
       "background": "background",
-      "bottomSeparatorColor": "borderColor",
+      "bottomSeparatorColor": "border",
       "cellBorder": "4,0,4,0",
       "foreground": "foreground",
       "focusCellBackground": "selectionBackground",
-      "separatorColor": "borderColor"
+      "separatorColor": "border"
     },
     "textText": "highlightForeground",
     "TextArea": {
@@ -588,21 +588,21 @@
     },
     "ToolWindow": {
       "Button": {
-        "hoverBackground": "borderColor",
+        "hoverBackground": "border",
         "selectedForeground": "accent",
         "selectedBackground": "background"
       },
       "Header": {
         "background": "background",
-        "borderColor": "borderColor",
+        "borderColor": "border",
         "inactiveBackground": "background"
       },
       "HeaderCloseButton": {
         "background": "background"
       },
       "HeaderTab": {
-        "hoverBackground": "borderColor",
-        "hoverInactiveBackground": "borderColor",
+        "hoverBackground": "border",
+        "hoverInactiveBackground": "border",
         "inactiveUnderlineColor": "accent",
         "selectedInactiveBackground": "background",
         "underlineColor": "accent",
@@ -651,7 +651,7 @@
       },
       "Log": {
         "Commit.unmatchedForeground": "highlightForeground",
-        "Commit.currentBranchBackground": "borderColor"
+        "Commit.currentBranchBackground": "border"
       },
       "RefLabel": {
         "foreground": "accent",
@@ -664,14 +664,14 @@
     },
     "WelcomeScreen": {
       "background": "background",
-      "borderColor": "borderColor",
+      "borderColor": "border",
       "captionBackground": "disabledBackground",
       "captionForeground": "foreground",
       "footerBackground": "disabledBackground",
       "footerForeground": "foreground",
       "headerBackground": "background",
       "headerForeground": "foreground",
-      "separatorColor": "borderColor",
+      "separatorColor": "border",
       "Projects": {
         "background": "disabledBackground",
         "selectionBackground": "background",
@@ -679,7 +679,7 @@
       }
     },
     "window": "background",
-    "windowBorder": "borderColor",
+    "windowBorder": "border",
     "windowText": "highlightForeground",
     "Window.border": "0,0,0,0,#2f393d"
   },
