@@ -1,5 +1,9 @@
 # Changelog
 
+### 0.2
+
+- Revamped unused variables and identifier attributes effect
+
 ### 0.1
 
 - Fixed active tab not having an selection color

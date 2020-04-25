@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>monokai-pro-forked</id>
-  <name>Monokai Pro Forked</name>
-  <version>0.1</version>
+  <name>Monokai Pro F</name>
+  <version>0.2</version>
   <vendor url="https://github.com/nikitabuyevich/monokai-pro-forked-jetbrains">Nikita Buyevich</vendor>
 
   <description>
