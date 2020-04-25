@@ -1,0 +1,31 @@
+<idea-plugin>
+  <id>monokai-pro-forked</id>
+  <name>Monokai Pro Forked</name>
+  <version>0.1</version>
+  <vendor url="https://github.com/nikitabuyevich/monokai-pro-forked-jetbrains">Nikita Buyevich</vendor>
+
+  <description>
+    <![CDATA[
+      Jonathan Esposito's unofficial Monokai Pro theme for JetBrains forked by Nikita Buyevich.
+      This fork includes fixes to various bugs.
+      This plugin includes the default theme, including all four filters: Machine, Octagon, Ristretto, and Spectrum.
+      Credit goes to the original creator: <a href="https://monokai.pro">https://monokai.pro</a> and
+      <a href="https://github.com/jontaydev">Jonathan Esposito</a>.
+      <br/><br/>
+      From the website:
+      <br/><br/>
+      Monokai Pro is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.
+    ]]>
+  </description>
+
+  <idea-version since-build="191.0"/>
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="316ad1cd-e35b-41f1-b1e2-a6584a763e3c" path="/Monokai Pro F.theme.json"/>
+    <themeProvider id="b08526e9-f59f-4022-b518-f20afabfb133" path="/Monokai Pro F Machine.theme.json"/>
+    <themeProvider id="c8e9a561-b04b-4750-8f4c-44e04e979965" path="/Monokai Pro F Octagon.theme.json"/>
+    <themeProvider id="2e21f3c7-1808-466f-ac9b-df3b9ab22cc2" path="/Monokai Pro F Ristretto.theme.json"/>
+    <themeProvider id="95c4a4f9-ddf6-46f7-bf76-1738942b26a4" path="/Monokai Pro F Spectrum.theme.json"/>
+  </extensions>
+</idea-plugin>
