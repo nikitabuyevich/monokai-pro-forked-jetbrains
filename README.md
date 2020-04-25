@@ -1,8 +1,13 @@
 # Monokai Pro Forked for JetBrains
 
 Jonathan Esposito's unofficial Monokai Pro theme for JetBrains forked by Nikita Buyevich.
-This fork includes fixes to various bugs.
+This fork includes fixes to various bugs in Jonathan Esposito's current implementation of the Monokai Pro theme.
 This plugin includes the default theme, including all four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original creator: <a href="https://monokai.pro">https://monokai.pro</a>.
+
+## Recommended Font
+
+- [Fira Code Retina](https://github.com/tonsky/FiraCode)
+- Font ligatures enabled
 
 ## Screenshots
 
@@ -25,6 +30,10 @@ This plugin includes the default theme, including all four filters: Machine, Oct
 #### Filter Spectrum:
 
 ![Filter Spectrum](screenshots/spectrum.png)
+
+## Future Improvements
+
+- It's currently not possible to change the foreground color of the selected file in the project tree panel.
 
 ## Development
 
