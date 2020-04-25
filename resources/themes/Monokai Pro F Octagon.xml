@@ -91,7 +91,7 @@
       <option name="RECENT_LOCATIONS_SELECTION" value="1e1f2b" />
       <option name="RIGHT_MARGIN_COLOR" value="3a3d4b" />
       <option name="SELECTED_INDENT_GUIDE" value="9cd1bb" />
-      <option name="SELECTED_TEARLINE_COLOR" value="ffd76d" />
+      <option name="SELECTED_TEARLINE_COLOR" value="c5c5c5" />
       <option name="SELECTION_BACKGROUND" value="3a3d4b" />
       <option name="SELECTION_FOREGROUND" value="ffffff" />
       <option name="SEPARATOR_ABOVE_COLOR" value="" />
@@ -115,7 +115,7 @@
       <option name="ScrollBar.trackColor" value="282a3a" />
       <option name="TAB_UNDERLINE" value="ffd76d" />
       <option name="TAB_UNDERLINE_INACTIVE" value="ffd76d" />
-      <option name="TEARLINE_COLOR" value="767b81" />
+      <option name="TEARLINE_COLOR" value="3a3d4b" />
       <option name="TOOLTIP" value="3a3d4b" />
       <option name="VCS_ANNOTATIONS_COLOR_1" value="696d77" />
       <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
