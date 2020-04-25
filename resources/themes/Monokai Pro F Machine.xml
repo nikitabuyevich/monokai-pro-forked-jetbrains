@@ -1013,8 +1013,8 @@
       </option>
       <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
          <value>
-            <option name="BACKGROUND" value="808080" />
             <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+            <option name="EFFECT_COLOR" value="798384" />
          </value>
       </option>
       <option name="IGNORE.BRACKET">
@@ -2636,8 +2636,8 @@
       </option>
       <option name="NOT_USED_ELEMENT_ATTRIBUTES">
          <value>
-            <option name="FOREGROUND" value="545f62" />
-            <option name="EFFECT_COLOR" value="545f62" />
+            <option name="FOREGROUND" value="B7B6B6" />
+            <option name="EFFECT_COLOR" value="848383" />
             <option name="EFFECT_TYPE" value="2" />
          </value>
       </option>
@@ -3579,8 +3579,8 @@
       </option>
       <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
          <value>
-            <option name="BACKGROUND" value="808080" />
             <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+            <option name="EFFECT_COLOR" value="798384" />
          </value>
       </option>
       <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
