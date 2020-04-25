@@ -115,7 +115,7 @@
       <option name="ScrollBar.trackColor" value="222222" />
       <option name="TAB_UNDERLINE" value="fce566" />
       <option name="TAB_UNDERLINE_INACTIVE" value="fce566" />
-      <option name="TEARLINE_COLOR" value="2c2c2c" />
+      <option name="TEARLINE_COLOR" value="8b888f" />
       <option name="TOOLTIP" value="363537" />
       <option name="VCS_ANNOTATIONS_COLOR_1" value="69676c" />
       <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
@@ -1013,7 +1013,7 @@
       </option>
       <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
          <value>
-            <option name="BACKGROUND" value="33e5d" />
+            <option name="BACKGROUND" value="4A4D50" />
             <option name="ERROR_STRIPE_COLOR" value="4d6168" />
          </value>
       </option>
@@ -3579,7 +3579,7 @@
       </option>
       <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
          <value>
-            <option name="BACKGROUND" value="4a4d50" />
+            <option name="BACKGROUND" value="808080" />
             <option name="ERROR_STRIPE_COLOR" value="4d6168" />
          </value>
       </option>

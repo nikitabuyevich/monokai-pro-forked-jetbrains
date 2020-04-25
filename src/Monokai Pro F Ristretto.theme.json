@@ -8,7 +8,7 @@
   },
   "ui": {
     "*": {
-      "acceleratorSelectionForeground": "#8c8384",
+      "acceleratorSelectionForeground": "yellow",
       "background": "#2c2525",
       "borderColor": "#332c2c",
       "disabledBackground": "#211c1c",
@@ -22,8 +22,9 @@
       "infoForeground": "#8c8384",
       "selectionBackground": "#2c2525",
       "selectionBackgroundInactive": "#2c2525",
-      "selectionForeground": "#fff1f3",
+      "selectionForeground": "yellow",
       "selectionInactiveBackground": "#403838",
+      "selectionInactiveForeground": "yellow",
       "separatorColor": "#2c2525"
     },
     "ActionButton": {
@@ -228,7 +229,7 @@
       "disabledBackground": "#403838",
       "disabledForeground": "#5b5353",
       "foreground": "#fff1f3",
-      "selectionForeground": "#fff1f3",
+      "selectionForeground": "yellow",
       "separatorColor": "#2c2525"
     },
     "MenuBar": {
@@ -238,7 +239,7 @@
       "foreground": "#fff1f3",
       "highlight": "#2c2525",
       "selectionBackground": "#403838",
-      "selectionForeground": "#fff1f3",
+      "selectionForeground": "yellow",
       "shadow": "#211c1c"
     },
     "MenuItem": {
@@ -248,7 +249,7 @@
       "disabledForeground": "#5b5353",
       "foreground": "#fff1f3",
       "selectionBackground": "#403838",
-      "selectionForeground": "#fff1f3"
+      "selectionForeground": "yellow"
     },
     "NavBar": {
       "borderColor": "#332c2c"
@@ -383,7 +384,7 @@
       "disabledForeground": "#5b5353",
       "foreground": "#fff1f3",
       "selectionBackground": "#403838",
-      "selectionForeground": "#fff1f3"
+      "selectionForeground": "yellow"
     },
     "ScrollBar": {
       "background": "#2c2525",
